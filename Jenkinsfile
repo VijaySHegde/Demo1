@@ -7,8 +7,8 @@ lib 'shlib'
    tools{
         maven "Maven"
     }
-    stages {
-      /*stage('Start')
+       /* stages {
+  stage('Start')
             {
                 steps
                  { 
