@@ -181,6 +181,6 @@ lib 'shlib'
 always{
 sendNotifications currentBuild.result
 }
-}*/
+}
 
-    }
+    } */
